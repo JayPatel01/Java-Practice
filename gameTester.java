@@ -1,9 +1,6 @@
 
 public class gameTester {
 
-	//Name: Jay V. Patel
-	//NetID: jpate225
-	//CS342 Project 1.
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
