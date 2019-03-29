@@ -5,7 +5,6 @@ public class gameTester {
 		// TODO Auto-generated method stub
 
 		System.out.println("Name: Jay V. Patel");
-		System.out.println("NetID: jpate225");
 		
 		//Creating a Game class object
 		Game game=new Game("RoomPuzzle Game");
