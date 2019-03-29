@@ -3,10 +3,6 @@ import java.util.Scanner;
 
 public class Game {
 	
-	//Name: Jay V. Patel
-	//NetID: jpate225
-	//CS342 Project 1.
-	
 	private String gameName;
 	private Place currentPlace=null;
 	private Vector<Place> placeVector=new Vector<Place>();
