@@ -1,15 +1,6 @@
 //ReadMe file
 
 Name: Jay Patel
-NetID: jpate225
-UIN: 653798119
-CS 342 Project 1
-
-Submission Description:
-
-1. I have followed professor's instructions to make classes and also the functions for each class.
-2. I have four java class files (Direction.java,Place.java,Game.java,gameTester.java) also,
-   there is makefile and readMe file in my submission folder. 
 
 Game Logic:
 1. I have made the game using the reference of the file "sixRooms.gdf"
