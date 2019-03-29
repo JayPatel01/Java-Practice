@@ -2,10 +2,6 @@ import java.util.Vector;
 
 public class Place {
 	
-	//Name: Jay V. Patel
-	//NetID: jpate225
-	//CS342 Project 1.
-	
 	private int roomID;
 	private String roomName;
 	private String discription;
