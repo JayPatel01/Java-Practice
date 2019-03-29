@@ -1,10 +1,6 @@
 
 public class Direction {
 	
-	//Name: Jay V. Patel
-	//NetID: jpate225
-	//CS342 Project 1.
-	
 	private boolean roomstatus;
 	private int roomID;
 	private Place from;
